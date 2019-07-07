@@ -1,36 +1,36 @@
-×ÀÃæÓÒÏÂ½ÇµÄÌáÄªÁÄÌì¼ÇÂ¼
+æ¡Œé¢å³ä¸‹è§’çš„æè«èŠå¤©è®°å½•è®°å¾—è¦æ•´ç†æˆæ–‡æœ¬å½¢å¼
 
-PS»ù±¾¼¼ÄÜ
+PSåŸºæœ¬æŠ€èƒ½
 
-»ù±¾µÄÄ£¿é»¯±à³Ì£¬¼°¼Ü¹¹µÄ¾­Ñé
+åŸºæœ¬çš„æ¨¡å—åŒ–ç¼–ç¨‹ï¼ŒåŠæ¶æ„çš„ç»éªŒ
 
-¿Î³ÌÃû³Æ Á´½Ó ¼ò½é
-±à³Ì»ù´¡£ºPython https://cn.udacity.com/course/programming-foundations-with-python--ud036/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse Ñ§Ï°ÃæÏò¶ÔÏó±à³Ì·½·¨£¬ÇáËÉÊµÏÖ´úÂëµÄÖØ¸´ÀûÓÃºÍ¹²Ïí
-»úÆ÷Ñ§Ï°ÈëÃÅ
+è¯¾ç¨‹åç§° é“¾æ¥ ç®€ä»‹
+ç¼–ç¨‹åŸºç¡€ï¼šPython https://cn.udacity.com/course/programming-foundations-with-python--ud036/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse å­¦ä¹ é¢å‘å¯¹è±¡ç¼–ç¨‹æ–¹æ³•ï¼Œè½»æ¾å®ç°ä»£ç çš„é‡å¤åˆ©ç”¨å’Œå…±äº«
+æœºå™¨å­¦ä¹ å…¥é—¨
 
 https://cn.udacity.com/course/intro-to-machine-learning--ud120-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse 
-¸úËæË¹Ì¹¸£½ÌÊÚ¡¢Google ÑĞ¾¿Ô±£¬ÕÆÎÕÓĞÈ¤ÓÖÊµÓÃµÄÌØÕ÷Ê¶±ğ¼¼Êõ
+è·Ÿéšæ–¯å¦ç¦æ•™æˆã€Google ç ”ç©¶å‘˜ï¼ŒæŒæ¡æœ‰è¶£åˆå®ç”¨çš„ç‰¹å¾è¯†åˆ«æŠ€æœ¯
 
-ÈË¹¤ÖÇÄÜÈëÃÅ£¨Ó¢ÎÄ£©
+äººå·¥æ™ºèƒ½å…¥é—¨ï¼ˆè‹±æ–‡ï¼‰
 
 https://cn.udacity.com/course/intro-to-artificial-intelligence--cs271-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse
 
-¸úËæ Google ÑĞ¾¿×Ü¼à¡¢Ç° NASA ¼ÆËã»ú¿ÆÑ§¼Ò£¬Ñ§Ï° AI »ù´¡
-»úÆ÷Ñ§Ï°£º·Ç¼à¶½Ñ§Ï°£¨Ó¢ÎÄ£©
+è·Ÿéš Google ç ”ç©¶æ€»ç›‘ã€å‰ NASA è®¡ç®—æœºç§‘å­¦å®¶ï¼Œå­¦ä¹  AI åŸºç¡€
+æœºå™¨å­¦ä¹ ï¼šéç›‘ç£å­¦ä¹ ï¼ˆè‹±æ–‡ï¼‰
 
 https://cn.udacity.com/course/machine-learning-unsupervised-learning--ud741-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse
 
-¸úËæ×ôÖÎÑÇÀí¹¤Ñ§Ôº×¨¼Ò£¬Ñ§Ï°ÓëÊµ¼ù·Ç¼à¶½Ñ§Ï°·½·¨
+è·Ÿéšä½æ²»äºšç†å·¥å­¦é™¢ä¸“å®¶ï¼Œå­¦ä¹ ä¸å®è·µéç›‘ç£å­¦ä¹ æ–¹æ³•
 
-Éî¶ÈÑ§Ï°¹¤¾ßTensorFlow ÈëÃÅ
+æ·±åº¦å­¦ä¹ å·¥å…·TensorFlow å…¥é—¨
 
 https://cn.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse
 
-¸úËæ Tensorflow¹Ù·½ÍÅ¶Ó£¬¹¹½¨Éî¶ÈÑ§Ï°Ó¦ÓÃ
-Éî¶ÈÑ§Ï°£¨Ó¢ÎÄ£© https://cn.udacity.com/course/deep-learning--ud730-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse ½èÖú Google ¹Ù·½¿Î³Ì£¬Í¸³¹Àí½âÉî¶ÈÑ§Ï°¶¯»ú
-»úÆ÷ÈËÈË¹¤ÖÇÄÜ£¨Ó¢ÎÄ£© https://cn.udacity.com/course/artificial-intelligence-for-robotics--cs373/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse Ñ§Ï°×ôÖÎÑÇÀí¹¤Ñ§Ôº»úÆ÷ÈË¼¼Êõ£¬±àÖÆ»úÆ÷ÈËÆû³µ
-ÃèÊöÍ³¼ÆÑ§ÈëÃÅ https://cn.udacity.com/course/intro-to-descriptive-statistics--ud827-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse ¸úËæÊ¥ºÎÈûÖİÁ¢´óÑ§½ÌÊÚ£¬º»ÊµÍ³¼ÆÑ§»ù´¡
-ÍÆÂÛÍ³¼ÆÑ§ÈëÃÅ£¨Ó¢ÎÄ£© https://cn.udacity.com/course/intro-to-inferential-statistics--ud201-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse ¸úËæÊ¥ºÎÈûÖİÁ¢´óÑ§½ÌÊÚ£¬Ñ§Ï°ÈçºÎÊ¹ÓÃÊı¾İ½øĞĞÔ¤²â
-Êı¾İ¿ÆÑ§ÈëÃÅ£¨Ó¢ÎÄ£© https://cn.udacity.com/course/intro-to-data-science--ud359/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse Ò»ÃÅ¿ÎÁË½âÊı¾İ¿ÆÑ§»ù´¡ÖªÊ¶
+è·Ÿéš Tensorflowå®˜æ–¹å›¢é˜Ÿï¼Œæ„å»ºæ·±åº¦å­¦ä¹ åº”ç”¨
+æ·±åº¦å­¦ä¹ ï¼ˆè‹±æ–‡ï¼‰ https://cn.udacity.com/course/deep-learning--ud730-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse å€ŸåŠ© Google å®˜æ–¹è¯¾ç¨‹ï¼Œé€å½»ç†è§£æ·±åº¦å­¦ä¹ åŠ¨æœº
+æœºå™¨äººäººå·¥æ™ºèƒ½ï¼ˆè‹±æ–‡ï¼‰ https://cn.udacity.com/course/artificial-intelligence-for-robotics--cs373/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse å­¦ä¹ ä½æ²»äºšç†å·¥å­¦é™¢æœºå™¨äººæŠ€æœ¯ï¼Œç¼–åˆ¶æœºå™¨äººæ±½è½¦
+æè¿°ç»Ÿè®¡å­¦å…¥é—¨ https://cn.udacity.com/course/intro-to-descriptive-statistics--ud827-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse è·Ÿéšåœ£ä½•å¡å·ç«‹å¤§å­¦æ•™æˆï¼Œå¤¯å®ç»Ÿè®¡å­¦åŸºç¡€
+æ¨è®ºç»Ÿè®¡å­¦å…¥é—¨ï¼ˆè‹±æ–‡ï¼‰ https://cn.udacity.com/course/intro-to-inferential-statistics--ud201-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse è·Ÿéšåœ£ä½•å¡å·ç«‹å¤§å­¦æ•™æˆï¼Œå­¦ä¹ å¦‚ä½•ä½¿ç”¨æ•°æ®è¿›è¡Œé¢„æµ‹
+æ•°æ®ç§‘å­¦å…¥é—¨ï¼ˆè‹±æ–‡ï¼‰ https://cn.udacity.com/course/intro-to-data-science--ud359/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse ä¸€é—¨è¯¾äº†è§£æ•°æ®ç§‘å­¦åŸºç¡€çŸ¥è¯†
 
 SSL WebSocket connection
