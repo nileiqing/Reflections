@@ -1,0 +1,36 @@
+桌面右下角的提莫聊天记录
+
+PS基本技能
+
+基本的模块化编程，及架构的经验
+
+课程名称 链接 简介
+编程基础：Python https://cn.udacity.com/course/programming-foundations-with-python--ud036/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse 学习面向对象编程方法，轻松实现代码的重复利用和共享
+机器学习入门
+
+https://cn.udacity.com/course/intro-to-machine-learning--ud120-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse 
+跟随斯坦福教授、Google 研究员，掌握有趣又实用的特征识别技术
+
+人工智能入门（英文）
+
+https://cn.udacity.com/course/intro-to-artificial-intelligence--cs271-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse
+
+跟随 Google 研究总监、前 NASA 计算机科学家，学习 AI 基础
+机器学习：非监督学习（英文）
+
+https://cn.udacity.com/course/machine-learning-unsupervised-learning--ud741-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse
+
+跟随佐治亚理工学院专家，学习与实践非监督学习方法
+
+深度学习工具TensorFlow 入门
+
+https://cn.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse
+
+跟随 Tensorflow官方团队，构建深度学习应用
+深度学习（英文） https://cn.udacity.com/course/deep-learning--ud730-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse 借助 Google 官方课程，透彻理解深度学习动机
+机器人人工智能（英文） https://cn.udacity.com/course/artificial-intelligence-for-robotics--cs373/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse 学习佐治亚理工学院机器人技术，编制机器人汽车
+描述统计学入门 https://cn.udacity.com/course/intro-to-descriptive-statistics--ud827-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse 跟随圣何塞州立大学教授，夯实统计学基础
+推论统计学入门（英文） https://cn.udacity.com/course/intro-to-inferential-statistics--ud201-enterprise/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse 跟随圣何塞州立大学教授，学习如何使用数据进行预测
+数据科学入门（英文） https://cn.udacity.com/course/intro-to-data-science--ud359/?utm_source=deecamp&utm_medium=email&utm_campaign=freecourse 一门课了解数据科学基础知识
+
+SSL WebSocket connection
